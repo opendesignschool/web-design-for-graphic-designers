@@ -1,6 +1,9 @@
 Web Design For Graphic designers
 ================================
 
+This repository is a curated and structured collection of free online resources and tools aimed to help graphic designers make a first move into digital design. It's currently under constant development, for now you can use the full list of resources [here](http://opendesignschool.co.uk/library)
+
+
 # What you will learn
 
 This course is for graphic designers who want to extend their design knowledge and gain essential technical skills to be able to design effective web sites and understand the technologies behind them. It is focussed on the underlying principles of interactive design through the medium of the web. The course goes through all parts of the modern web designer’s workflow in detail, including content planning, wireframing, designing mockups and coding in HTML & CSS.
