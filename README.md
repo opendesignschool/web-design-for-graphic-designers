@@ -1,4 +1,4 @@
-Web Design For Graphic designers
+Web Design For Graphic Designers
 ================================
 
 This repository is a curated and structured collection of free online resources and tools aimed to help graphic designers make a first move into digital design. It's currently under constant development, for now you can use the full list of resources [here](http://opendesignschool.co.uk/library)
